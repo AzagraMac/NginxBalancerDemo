@@ -8,7 +8,7 @@
 - [docker-compose](https://docs.docker.com/compose/install/)
 - [docker engine](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 
-## Installing cheats on MemoryStick
+## Launch
 ```
 docker-compose up
 ```
